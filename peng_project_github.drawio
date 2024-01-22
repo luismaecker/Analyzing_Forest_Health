@@ -1,26 +1,96 @@
-<mxfile host="app.diagrams.net" modified="2024-01-21T14:45:33.132Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="2XBIehkOhDl14k3Flp56" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-22T10:29:02.696Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Fe4uQg-KO6BfPIYHzQoL" version="22.1.21" type="github">
   <diagram name="Seite-1" id="LFhBnV2CUkkyut7LVG_U">
-    <mxGraphModel dx="995" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1085" dy="675" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="A4KC4OkEU0xHgXNjWnPV-1" value="Modis 500/250 m NDVI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="185" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A4KC4OkEU0xHgXNjWnPV-10" value="Modis 500/250 m NDVI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="170" width="120" height="60" as="geometry" />
+        <mxCell id="A4KC4OkEU0xHgXNjWnPV-14" value="&amp;nbsp;CLC Landcover 2000-2018 - 100m -&lt;br&gt;3 Forest classes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A4KC4OkEU0xHgXNjWnPV-11" value="Modis 500/250 m NDVI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="180" width="120" height="60" as="geometry" />
+        <mxCell id="A4KC4OkEU0xHgXNjWnPV-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A4KC4OkEU0xHgXNjWnPV-37" target="A4KC4OkEU0xHgXNjWnPV-40">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="A4KC4OkEU0xHgXNjWnPV-12" value="Modis 500/250 m NDVI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="190" width="120" height="60" as="geometry" />
+        <mxCell id="A4KC4OkEU0xHgXNjWnPV-37" value="DWD Klima-Daten, monatlich, 1km Auflösung" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="545" y="10" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A4KC4OkEU0xHgXNjWnPV-13" value="Modis 500/250 m NDVI: 16 Day Composites" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="200" width="120" height="60" as="geometry" />
+        <mxCell id="A4KC4OkEU0xHgXNjWnPV-38" value="Temperatur&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A4KC4OkEU0xHgXNjWnPV-14" value="Modis 500/250 m NDVI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="160" width="120" height="60" as="geometry" />
+        <mxCell id="A4KC4OkEU0xHgXNjWnPV-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A4KC4OkEU0xHgXNjWnPV-40" target="A4KC4OkEU0xHgXNjWnPV-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A4KC4OkEU0xHgXNjWnPV-40" value="Niederschlag" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="545" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A4KC4OkEU0xHgXNjWnPV-41" value="Evapotransipration" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="707" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A4KC4OkEU0xHgXNjWnPV-43" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="A4KC4OkEU0xHgXNjWnPV-37" target="A4KC4OkEU0xHgXNjWnPV-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="315" y="175" as="sourcePoint" />
+            <mxPoint x="365" y="125" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="605" y="105" />
+              <mxPoint x="425" y="105" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A4KC4OkEU0xHgXNjWnPV-45" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="A4KC4OkEU0xHgXNjWnPV-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="605" y="105" as="sourcePoint" />
+            <mxPoint x="770" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="605" y="105" />
+              <mxPoint x="770" y="105" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A4KC4OkEU0xHgXNjWnPV-46" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="335" as="sourcePoint" />
+            <mxPoint x="420" y="480" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A4KC4OkEU0xHgXNjWnPV-47" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="A4KC4OkEU0xHgXNjWnPV-41" target="A4KC4OkEU0xHgXNjWnPV-49">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="755" y="310" as="sourcePoint" />
+            <mxPoint x="805" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="767" y="335" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A4KC4OkEU0xHgXNjWnPV-48" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.458;exitY=1.061;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="A4KC4OkEU0xHgXNjWnPV-38" target="A4KC4OkEU0xHgXNjWnPV-49">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="475" y="335" as="sourcePoint" />
+            <mxPoint x="525" y="285" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="335" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A4KC4OkEU0xHgXNjWnPV-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A4KC4OkEU0xHgXNjWnPV-49" target="A4KC4OkEU0xHgXNjWnPV-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A4KC4OkEU0xHgXNjWnPV-49" value="SPEI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="545" y="305" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A4KC4OkEU0xHgXNjWnPV-51" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="766.5799999999999" y="335" as="sourcePoint" />
+            <mxPoint x="766.5799999999999" y="480" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A4KC4OkEU0xHgXNjWnPV-52" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="545" y="445" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A4KC4OkEU0xHgXNjWnPV-54" value="GLDAS Soil Moisture, 03-23, 0.25°" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="915" y="155" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
