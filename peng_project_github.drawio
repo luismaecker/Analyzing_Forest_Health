@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2024-02-05T21:30:06.867Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="txT9HM9tPE39mVjcUhpt" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-05T23:34:42.667Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="nXVX3mbUwu0oji66IU3a" version="23.1.1" type="github">
   <diagram name="Seite-1" id="LFhBnV2CUkkyut7LVG_U">
-    <mxGraphModel dx="823" dy="512" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="995" dy="618" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="svSbglkjGErdBo7fSWwA-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A4KC4OkEU0xHgXNjWnPV-1" target="svSbglkjGErdBo7fSWwA-5">
+        <mxCell id="svSbglkjGErdBo7fSWwA-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A4KC4OkEU0xHgXNjWnPV-1" target="svSbglkjGErdBo7fSWwA-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="A4KC4OkEU0xHgXNjWnPV-1" value="Modis 250 m NDVI" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="A4KC4OkEU0xHgXNjWnPV-1" value="Modis 250 m NDVI: 16-Day Composites; 2000 - 2023" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="315" y="155" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="svSbglkjGErdBo7fSWwA-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A4KC4OkEU0xHgXNjWnPV-14" target="svSbglkjGErdBo7fSWwA-9">
@@ -98,20 +98,38 @@
         <mxCell id="A4KC4OkEU0xHgXNjWnPV-54" value="&lt;font color=&quot;#050505&quot;&gt;GLDAS Soil Moisture, 03-23, 0.25°&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#BD7A53;strokeColor=#d6b656;opacity=70;gradientColor=#5C87FF;gradientDirection=south;" parent="1" vertex="1">
           <mxGeometry x="1095" y="155" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="svSbglkjGErdBo7fSWwA-5" value="Man-Kendall&lt;br&gt;Sen-Slope" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="323.75" y="475" width="102.5" height="100" as="geometry" />
+        <mxCell id="svSbglkjGErdBo7fSWwA-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="svSbglkjGErdBo7fSWwA-5" target="svSbglkjGErdBo7fSWwA-24">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="svSbglkjGErdBo7fSWwA-9" value="Select Pixel with Forest Cover in all years" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=0;" vertex="1" parent="1">
+        <mxCell id="svSbglkjGErdBo7fSWwA-5" value="Man-Kendall /&lt;br&gt;Sen-Slope" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="323.75" y="735" width="102.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="svSbglkjGErdBo7fSWwA-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="svSbglkjGErdBo7fSWwA-9" target="svSbglkjGErdBo7fSWwA-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="svSbglkjGErdBo7fSWwA-9" value="Select Pixel with Forest Cover in: all years? 2000?" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="115" y="295" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="svSbglkjGErdBo7fSWwA-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="svSbglkjGErdBo7fSWwA-9" target="svSbglkjGErdBo7fSWwA-5">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="290" y="305" as="sourcePoint" />
-            <mxPoint x="340" y="255" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="374" y="345" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="svSbglkjGErdBo7fSWwA-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="svSbglkjGErdBo7fSWwA-14" target="svSbglkjGErdBo7fSWwA-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="svSbglkjGErdBo7fSWwA-14" value="NDVI for Forest areas" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="315" y="475" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="svSbglkjGErdBo7fSWwA-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="svSbglkjGErdBo7fSWwA-18" target="svSbglkjGErdBo7fSWwA-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="svSbglkjGErdBo7fSWwA-18" value="Deseasonalize?" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="325" y="580" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="svSbglkjGErdBo7fSWwA-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="svSbglkjGErdBo7fSWwA-21" target="svSbglkjGErdBo7fSWwA-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="svSbglkjGErdBo7fSWwA-21" value="Resample to NDVI-Resolution" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="115" y="455" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="svSbglkjGErdBo7fSWwA-24" value="Significant positive / negative Trends in NDVI" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="315" y="935" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
