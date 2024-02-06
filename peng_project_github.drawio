@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-06T18:02:23.410Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="W75_4u8APSaS0wlKVupY" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-06T19:14:41.386Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="BVz9g3adUKmeQJKeZgh4" version="23.1.1" type="github">
   <diagram name="Seite-1" id="LFhBnV2CUkkyut7LVG_U">
-    <mxGraphModel dx="1257" dy="781" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="645" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -88,13 +88,6 @@
         <mxCell id="A4KC4OkEU0xHgXNjWnPV-49" value="SPEI" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="910" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A4KC4OkEU0xHgXNjWnPV-51" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.473;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="ygUSiB05X2mL6uqBN9ns-7">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1131.58" y="490" as="sourcePoint" />
-            <mxPoint x="1150" y="680" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="A4KC4OkEU0xHgXNjWnPV-54" value="&lt;font color=&quot;#050505&quot;&gt;GLDAS Soil Moisture, 03-23, 0.25°&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#BD7A53;strokeColor=#d6b656;opacity=70;gradientColor=#5C87FF;gradientDirection=south;" parent="1" vertex="1">
           <mxGeometry x="1280" y="310" width="120" height="60" as="geometry" />
         </mxCell>
@@ -128,6 +121,11 @@
         <mxCell id="svSbglkjGErdBo7fSWwA-21" value="Resample to NDVI-Resolution" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="300" y="610" width="100" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="ygUSiB05X2mL6uqBN9ns-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="svSbglkjGErdBo7fSWwA-24" target="ygUSiB05X2mL6uqBN9ns-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1080" y="1120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="svSbglkjGErdBo7fSWwA-24" value="Significant positive / negative Trends in NDVI for all german forest areas" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="500" y="1090" width="120" height="60" as="geometry" />
         </mxCell>
@@ -141,19 +139,19 @@
           <mxGeometry x="410" y="30" width="965" height="95" as="geometry" />
         </mxCell>
         <mxCell id="ygUSiB05X2mL6uqBN9ns-7" value="Environmental data" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="915" y="690" width="465" height="60" as="geometry" />
+          <mxGeometry x="920" y="845" width="465" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ygUSiB05X2mL6uqBN9ns-9" value="Environmental data" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="920" y="695" width="465" height="60" as="geometry" />
+          <mxGeometry x="925" y="850" width="465" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ygUSiB05X2mL6uqBN9ns-10" value="Environmental data" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="925" y="700" width="465" height="60" as="geometry" />
+          <mxGeometry x="930" y="855" width="465" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ygUSiB05X2mL6uqBN9ns-11" value="Environmental data" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="930" y="705" width="465" height="60" as="geometry" />
+          <mxGeometry x="935" y="860" width="465" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ygUSiB05X2mL6uqBN9ns-12" value="Environmental data" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="935" y="710" width="465" height="60" as="geometry" />
+          <mxGeometry x="940" y="865" width="465" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ygUSiB05X2mL6uqBN9ns-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.542;exitY=1.061;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.564;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="A4KC4OkEU0xHgXNjWnPV-54" target="ygUSiB05X2mL6uqBN9ns-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -171,9 +169,28 @@
             <mxPoint x="825" y="525" as="targetPoint" />
             <Array as="points">
               <mxPoint x="970" y="415" />
-              <mxPoint x="1165" y="420" />
+              <mxPoint x="1170" y="420" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ygUSiB05X2mL6uqBN9ns-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.52;exitY=1.011;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ygUSiB05X2mL6uqBN9ns-12" target="ygUSiB05X2mL6uqBN9ns-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="835" y="1085" as="sourcePoint" />
+            <mxPoint x="1180" y="1027.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ygUSiB05X2mL6uqBN9ns-19" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1095" y="1045" width="175" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ygUSiB05X2mL6uqBN9ns-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.46;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="ygUSiB05X2mL6uqBN9ns-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1131.58" y="490" as="sourcePoint" />
+            <mxPoint x="1350" y="745" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ygUSiB05X2mL6uqBN9ns-22" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Resampling&lt;/span&gt;&#xa;&#xa;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1097" y="705" width="105" height="105" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
