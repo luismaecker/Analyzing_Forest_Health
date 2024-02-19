@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-19T16:03:33.813Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="BoMTIIU9X64x49r_xgmK" version="23.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-19T17:24:11.140Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="sGCoe1CDSHc7978FauHf" version="23.1.4" type="github">
   <diagram name="Seite-1" id="LFhBnV2CUkkyut7LVG_U">
-    <mxGraphModel dx="1195" dy="618" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2607" dy="1349" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -204,11 +204,14 @@
         <mxCell id="q-NroQc5tZUEkmXBCrXv-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q-NroQc5tZUEkmXBCrXv-4" target="q-NroQc5tZUEkmXBCrXv-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="q-NroQc5tZUEkmXBCrXv-4" value="&amp;nbsp;CLC Landcover 2000- 100m -&lt;br&gt;3 Forest classes" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="q-NroQc5tZUEkmXBCrXv-4" value="&amp;nbsp;CLC Landcover 2000 and 2018 100m -&lt;br&gt;3 Forest classes" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="2010" y="345" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="q-NroQc5tZUEkmXBCrXv-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q-NroQc5tZUEkmXBCrXv-5" target="q-NroQc5tZUEkmXBCrXv-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="q-NroQc5tZUEkmXBCrXv-5" value="DWD Klima-Daten, monatlich, 1km Auflösung" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C2D1FC;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="2670" y="330" width="120" height="60" as="geometry" />
+          <mxGeometry x="2670" y="335" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q-NroQc5tZUEkmXBCrXv-6" value="GEE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2140" y="185" width="120" height="60" as="geometry" />
@@ -216,14 +219,62 @@
         <mxCell id="q-NroQc5tZUEkmXBCrXv-7" value="Lokal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2795" y="165" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="q-NroQc5tZUEkmXBCrXv-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q-NroQc5tZUEkmXBCrXv-12" target="q-NroQc5tZUEkmXBCrXv-14">
+        <mxCell id="q-NroQc5tZUEkmXBCrXv-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q-NroQc5tZUEkmXBCrXv-12" target="q-NroQc5tZUEkmXBCrXv-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="q-NroQc5tZUEkmXBCrXv-12" value="forest-mask&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#d79b00;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2030" y="510" width="80" height="80" as="geometry" />
+        <mxCell id="q-NroQc5tZUEkmXBCrXv-12" value="forest-mask for both year forest&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#d79b00;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1715" y="515" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="q-NroQc5tZUEkmXBCrXv-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q-NroQc5tZUEkmXBCrXv-14" target="q-NroQc5tZUEkmXBCrXv-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q-NroQc5tZUEkmXBCrXv-14" value="masking" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#d79b00;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2290" y="510" width="80" height="80" as="geometry" />
+          <mxGeometry x="2290" y="515" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="q-NroQc5tZUEkmXBCrXv-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q-NroQc5tZUEkmXBCrXv-17" target="q-NroQc5tZUEkmXBCrXv-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q-NroQc5tZUEkmXBCrXv-17" value="Rescaling etc." style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#d79b00;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2290" y="705" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="q-NroQc5tZUEkmXBCrXv-21" value="Visualization" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#FFF2CC;strokeColor=#d79b00;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2270" y="1065" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="q-NroQc5tZUEkmXBCrXv-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q-NroQc5tZUEkmXBCrXv-25" target="q-NroQc5tZUEkmXBCrXv-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q-NroQc5tZUEkmXBCrXv-25" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Script to download&lt;/span&gt;&#xa;&#xa;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#C2D1FC;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2690" y="465" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="q-NroQc5tZUEkmXBCrXv-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q-NroQc5tZUEkmXBCrXv-27" target="q-NroQc5tZUEkmXBCrXv-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q-NroQc5tZUEkmXBCrXv-27" value="Upload to GEE" style="ellipse;whiteSpace=wrap;html=1;fillColor=#C2D1FC;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2690" y="655" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="q-NroQc5tZUEkmXBCrXv-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q-NroQc5tZUEkmXBCrXv-29" target="q-NroQc5tZUEkmXBCrXv-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q-NroQc5tZUEkmXBCrXv-29" value="Preprocessing" style="ellipse;whiteSpace=wrap;html=1;fillColor=#C2D1FC;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2690" y="815" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="q-NroQc5tZUEkmXBCrXv-31" value="Analysis" style="ellipse;whiteSpace=wrap;html=1;fillColor=#C2D1FC;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2690" y="975" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="q-NroQc5tZUEkmXBCrXv-33" value="Man-Kendall" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#d79b00;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2290" y="900" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="q-NroQc5tZUEkmXBCrXv-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q-NroQc5tZUEkmXBCrXv-35" target="q-NroQc5tZUEkmXBCrXv-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q-NroQc5tZUEkmXBCrXv-35" value="resample" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#d79b00;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1900" y="515" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="q-NroQc5tZUEkmXBCrXv-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q-NroQc5tZUEkmXBCrXv-37" target="q-NroQc5tZUEkmXBCrXv-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q-NroQc5tZUEkmXBCrXv-37" value="which years both forest?" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#d79b00;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2105" y="515" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
