@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-20T18:06:48.536Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="L1dOOary0vNbQjGOQDQB" version="23.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-27T18:43:44.003Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="wwCQ_341xQ4sqXuY67SR" version="23.1.5" type="github">
   <diagram name="Seite-1" id="LFhBnV2CUkkyut7LVG_U">
-    <mxGraphModel dx="1434" dy="1911" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="819" dy="1593" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -192,17 +192,14 @@
         <mxCell id="ygUSiB05X2mL6uqBN9ns-22" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Resampling&lt;/span&gt;&#xa;&#xa;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="1097" y="705" width="105" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="q-NroQc5tZUEkmXBCrXv-1" value="&lt;span style=&quot;font-size: 37px;&quot;&gt;Outputs&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2080" y="-140" width="965" height="95" as="geometry" />
-        </mxCell>
         <mxCell id="q-NroQc5tZUEkmXBCrXv-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="q-NroQc5tZUEkmXBCrXv-3" target="q-NroQc5tZUEkmXBCrXv-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q-NroQc5tZUEkmXBCrXv-3" value="Modis 250 m NDVI: 16-Day Composites; 2000 - 2023" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="2310" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="q-NroQc5tZUEkmXBCrXv-4" value="CLC Landcover 2000&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="1695" y="280" width="120" height="60" as="geometry" />
+        <mxCell id="q-NroQc5tZUEkmXBCrXv-4" value="CLC Forest Classes 2000&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="1710" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q-NroQc5tZUEkmXBCrXv-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="q-NroQc5tZUEkmXBCrXv-5" target="q-NroQc5tZUEkmXBCrXv-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -210,8 +207,14 @@
         <mxCell id="q-NroQc5tZUEkmXBCrXv-5" value="DWD Klima-Daten, monatlich, 1km Auflösung" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C2D1FC;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="2670" y="335" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="q-NroQc5tZUEkmXBCrXv-6" value="GEE" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2060" y="5" width="120" height="60" as="geometry" />
+        <mxCell id="bqKsiePvDk-b0oD-ANCA-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q-NroQc5tZUEkmXBCrXv-6" target="bqKsiePvDk-b0oD-ANCA-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bqKsiePvDk-b0oD-ANCA-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q-NroQc5tZUEkmXBCrXv-6" target="bqKsiePvDk-b0oD-ANCA-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q-NroQc5tZUEkmXBCrXv-6" value="Google Earth Engine" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2075" y="5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q-NroQc5tZUEkmXBCrXv-7" value="Lokal" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2795" y="165" width="120" height="60" as="geometry" />
@@ -273,82 +276,99 @@
         <mxCell id="q-NroQc5tZUEkmXBCrXv-37" value="which years both forest?" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#d79b00;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2105" y="515" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TDu1QzF_pjIgGod2TFzb-2" value="CLC Landcover 2006&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="1845" y="280" width="120" height="60" as="geometry" />
+        <mxCell id="bqKsiePvDk-b0oD-ANCA-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TDu1QzF_pjIgGod2TFzb-2" target="TDu1QzF_pjIgGod2TFzb-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TDu1QzF_pjIgGod2TFzb-3" value="CLC Landcover 2012&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="1995" y="280" width="120" height="60" as="geometry" />
+        <mxCell id="TDu1QzF_pjIgGod2TFzb-2" value="CLC Forest Classes 2006" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="1850" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TDu1QzF_pjIgGod2TFzb-4" value="CLC Landcover 2018&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="2140" y="280" width="120" height="60" as="geometry" />
+        <mxCell id="bqKsiePvDk-b0oD-ANCA-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TDu1QzF_pjIgGod2TFzb-3" target="TDu1QzF_pjIgGod2TFzb-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TDu1QzF_pjIgGod2TFzb-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1" target="q-NroQc5tZUEkmXBCrXv-4" source="q-NroQc5tZUEkmXBCrXv-6">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2060" y="240" as="sourcePoint" />
-            <mxPoint x="2110" y="190" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="TDu1QzF_pjIgGod2TFzb-3" value="CLC Forest Classes 2012" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="1990" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TDu1QzF_pjIgGod2TFzb-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="TDu1QzF_pjIgGod2TFzb-2" target="TDu1QzF_pjIgGod2TFzb-9" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1860" y="430" as="sourcePoint" />
-            <mxPoint x="1910" y="380" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TDu1QzF_pjIgGod2TFzb-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="TDu1QzF_pjIgGod2TFzb-4" target="TDu1QzF_pjIgGod2TFzb-9" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2205" y="505" as="sourcePoint" />
-            <mxPoint x="2255" y="455" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="TDu1QzF_pjIgGod2TFzb-4" value="CLC Forest Classes 2018" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="2130" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TDu1QzF_pjIgGod2TFzb-9" value="CLC Landcover 2000&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="1920" y="415" width="120" height="60" as="geometry" />
+          <mxGeometry x="1920" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WDuf_ZytPW0fp62bkvE6-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.525;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="q-NroQc5tZUEkmXBCrXv-6" target="TDu1QzF_pjIgGod2TFzb-2">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2073" y="200" as="sourcePoint" />
-            <mxPoint x="1760" y="285" as="targetPoint" />
+        <mxCell id="WDuf_ZytPW0fp62bkvE6-5" value="Download: CRS 25832; Resolution 500 meter" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2405" y="-15" width="520" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bqKsiePvDk-b0oD-ANCA-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="bqKsiePvDk-b0oD-ANCA-1" target="TDu1QzF_pjIgGod2TFzb-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1980" y="260" />
+              <mxPoint x="2035" y="260" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WDuf_ZytPW0fp62bkvE6-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.459;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="q-NroQc5tZUEkmXBCrXv-6" target="TDu1QzF_pjIgGod2TFzb-4">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2078" y="205" as="sourcePoint" />
-            <mxPoint x="1765" y="290" as="targetPoint" />
+        <mxCell id="bqKsiePvDk-b0oD-ANCA-1" value="Corine Landcover ImageCollectio" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE6CC;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="115" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bqKsiePvDk-b0oD-ANCA-3" value="Modis 500" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2260" y="105" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bqKsiePvDk-b0oD-ANCA-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bqKsiePvDk-b0oD-ANCA-1" target="TDu1QzF_pjIgGod2TFzb-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1980" y="185" as="sourcePoint" />
+            <mxPoint x="2060" y="285" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1975" y="260" />
+              <mxPoint x="2175" y="260" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WDuf_ZytPW0fp62bkvE6-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.508;entryY=-0.037;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="q-NroQc5tZUEkmXBCrXv-6" target="TDu1QzF_pjIgGod2TFzb-3">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2083" y="210" as="sourcePoint" />
-            <mxPoint x="1770" y="295" as="targetPoint" />
+        <mxCell id="bqKsiePvDk-b0oD-ANCA-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="bqKsiePvDk-b0oD-ANCA-1" target="q-NroQc5tZUEkmXBCrXv-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1975" y="185" as="sourcePoint" />
+            <mxPoint x="2205" y="285" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1975" y="260" />
+              <mxPoint x="1755" y="260" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WDuf_ZytPW0fp62bkvE6-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="q-NroQc5tZUEkmXBCrXv-6" target="q-NroQc5tZUEkmXBCrXv-3">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2073" y="200" as="sourcePoint" />
-            <mxPoint x="1915" y="285" as="targetPoint" />
+        <mxCell id="bqKsiePvDk-b0oD-ANCA-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="bqKsiePvDk-b0oD-ANCA-1" target="TDu1QzF_pjIgGod2TFzb-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1970" y="235" as="sourcePoint" />
+            <mxPoint x="2210" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1975" y="260" />
+              <mxPoint x="1895" y="260" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WDuf_ZytPW0fp62bkvE6-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.523;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="WDuf_ZytPW0fp62bkvE6-7">
+        <mxCell id="bqKsiePvDk-b0oD-ANCA-9" value="Preprocessing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1785" y="210" width="390" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bqKsiePvDk-b0oD-ANCA-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="bqKsiePvDk-b0oD-ANCA-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2120" y="65" as="sourcePoint" />
-            <mxPoint x="2490" y="280" as="targetPoint" />
+            <mxPoint x="1980" y="175" as="sourcePoint" />
+            <mxPoint x="2025" y="205" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WDuf_ZytPW0fp62bkvE6-5" value="Download: CRS 25832; Resolution 500 meter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1875" y="150" width="520" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="WDuf_ZytPW0fp62bkvE6-7" value="Modis 500m EVI to LAI 16 Day Composites 2000-2023" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="2470" y="280" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="WDuf_ZytPW0fp62bkvE6-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.46;exitY=0.983;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="q-NroQc5tZUEkmXBCrXv-4" target="TDu1QzF_pjIgGod2TFzb-9">
+        <mxCell id="bqKsiePvDk-b0oD-ANCA-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TDu1QzF_pjIgGod2TFzb-4" target="TDu1QzF_pjIgGod2TFzb-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1745" y="345" as="sourcePoint" />
-            <mxPoint x="1900" y="420" as="targetPoint" />
+            <mxPoint x="1975" y="415" as="sourcePoint" />
+            <mxPoint x="1975" y="405" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2190" y="390" />
+              <mxPoint x="1980" y="390" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WDuf_ZytPW0fp62bkvE6-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.469;exitY=0.983;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="TDu1QzF_pjIgGod2TFzb-3" target="TDu1QzF_pjIgGod2TFzb-9">
+        <mxCell id="bqKsiePvDk-b0oD-ANCA-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="q-NroQc5tZUEkmXBCrXv-4" target="TDu1QzF_pjIgGod2TFzb-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2025" y="370" as="sourcePoint" />
-            <mxPoint x="2180" y="445" as="targetPoint" />
+            <mxPoint x="1750" y="365" as="sourcePoint" />
+            <mxPoint x="1960" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1770" y="390" />
+              <mxPoint x="1875" y="395" />
+              <mxPoint x="1980" y="390" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
