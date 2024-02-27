@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-27T19:19:51.995Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="7ERs4VX7b5vNW3a4bPSo" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-27T19:31:12.514Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="UzOrbfGOvfm7Lv51u0H5" version="23.1.5" type="github">
   <diagram name="Seite-1" id="LFhBnV2CUkkyut7LVG_U">
-    <mxGraphModel dx="521" dy="270" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1024" dy="530" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -198,42 +198,37 @@
         <mxCell id="bqKsiePvDk-b0oD-ANCA-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q-NroQc5tZUEkmXBCrXv-5" target="bqKsiePvDk-b0oD-ANCA-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="q-NroQc5tZUEkmXBCrXv-5" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;DWD gridded Climate Data: 2000-2023,&lt;br&gt;1km resolution,&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C2D1FC;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="2710" y="160" width="120" height="60" as="geometry" />
+        <mxCell id="q-NroQc5tZUEkmXBCrXv-5" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;DWD gridded Climate Data&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="2565" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bqKsiePvDk-b0oD-ANCA-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.592;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="q-NroQc5tZUEkmXBCrXv-6" target="q-NroQc5tZUEkmXBCrXv-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2305" y="130.0526315789474" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bqKsiePvDk-b0oD-ANCA-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bqKsiePvDk-b0oD-ANCA-23">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2410" y="480.0000000000001" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="bqKsiePvDk-b0oD-ANCA-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.607;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="q-NroQc5tZUEkmXBCrXv-6" target="bqKsiePvDk-b0oD-ANCA-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q-NroQc5tZUEkmXBCrXv-6" value="Google Earth Engine" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" parent="1" vertex="1">
-          <mxGeometry x="2150" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="2100" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bqKsiePvDk-b0oD-ANCA-45" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="2865" y="245" width="135" height="75" as="geometry" />
+          <mxGeometry x="2705" y="245" width="135" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="bqKsiePvDk-b0oD-ANCA-28" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Monthly precipitation sum: May-September, 2000 - 2023&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C2D1FC;strokeColor=#6c8ebf;" vertex="1" parent="bqKsiePvDk-b0oD-ANCA-45">
+        <mxCell id="bqKsiePvDk-b0oD-ANCA-28" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C2D1FC;strokeColor=#6c8ebf;" vertex="1" parent="bqKsiePvDk-b0oD-ANCA-45">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bqKsiePvDk-b0oD-ANCA-42" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Monthly precipitation sum: May-September, 2000 - 2023&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C2D1FC;strokeColor=#6c8ebf;" vertex="1" parent="bqKsiePvDk-b0oD-ANCA-45">
+        <mxCell id="bqKsiePvDk-b0oD-ANCA-42" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C2D1FC;strokeColor=#6c8ebf;" vertex="1" parent="bqKsiePvDk-b0oD-ANCA-45">
           <mxGeometry x="5" y="5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bqKsiePvDk-b0oD-ANCA-43" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Monthly precipitation sum: May-September, 2000 - 2023&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C2D1FC;strokeColor=#6c8ebf;" vertex="1" parent="bqKsiePvDk-b0oD-ANCA-45">
+        <mxCell id="bqKsiePvDk-b0oD-ANCA-43" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C2D1FC;strokeColor=#6c8ebf;" vertex="1" parent="bqKsiePvDk-b0oD-ANCA-45">
           <mxGeometry x="10" y="10" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bqKsiePvDk-b0oD-ANCA-44" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Monthly precipitation sum: May-September, 2000 - 2023&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C2D1FC;strokeColor=#6c8ebf;" vertex="1" parent="bqKsiePvDk-b0oD-ANCA-45">
+        <mxCell id="bqKsiePvDk-b0oD-ANCA-44" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;1 km Monthly precipitation sum: May-September, 2000 - 2023&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C2D1FC;strokeColor=#6c8ebf;" vertex="1" parent="bqKsiePvDk-b0oD-ANCA-45">
           <mxGeometry x="15" y="15" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bqKsiePvDk-b0oD-ANCA-46" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="2540" y="240" width="135" height="75" as="geometry" />
+          <mxGeometry x="2420" y="245" width="135" height="75" as="geometry" />
         </mxCell>
         <mxCell id="bqKsiePvDk-b0oD-ANCA-24" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Monthly mean temperatures: May-September, 2000 - 2023&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C2D1FC;strokeColor=#6c8ebf;" vertex="1" parent="bqKsiePvDk-b0oD-ANCA-46">
           <mxGeometry width="120" height="60" as="geometry" />
@@ -244,11 +239,11 @@
         <mxCell id="bqKsiePvDk-b0oD-ANCA-40" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Monthly mean temperatures: May-September, 2000 - 2023&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C2D1FC;strokeColor=#6c8ebf;" vertex="1" parent="bqKsiePvDk-b0oD-ANCA-46">
           <mxGeometry x="10" y="10" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bqKsiePvDk-b0oD-ANCA-41" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Monthly mean temperatures: May-September, 2000 - 2023&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C2D1FC;strokeColor=#6c8ebf;" vertex="1" parent="bqKsiePvDk-b0oD-ANCA-46">
+        <mxCell id="bqKsiePvDk-b0oD-ANCA-41" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;1 km Monthly mean temperatures: May-September, 2000 - 2023&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C2D1FC;strokeColor=#6c8ebf;" vertex="1" parent="bqKsiePvDk-b0oD-ANCA-46">
           <mxGeometry x="15" y="15" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bqKsiePvDk-b0oD-ANCA-47" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="2335" y="240" width="135" height="75" as="geometry" />
+          <mxGeometry x="2240" y="245" width="135" height="75" as="geometry" />
         </mxCell>
         <mxCell id="q-NroQc5tZUEkmXBCrXv-3" value="Modis 250 m NDVI: 16-Day Composites; 2000 - 2023" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="bqKsiePvDk-b0oD-ANCA-47" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
@@ -259,14 +254,11 @@
         <mxCell id="bqKsiePvDk-b0oD-ANCA-22" value="Modis 250 m NDVI: 16-Day Composites; 2000 - 2023" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="bqKsiePvDk-b0oD-ANCA-47">
           <mxGeometry x="10" y="10" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bqKsiePvDk-b0oD-ANCA-23" value="Modis 500 m NDVI: 16-Day Composites, May - September, 2000 - 2023" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="bqKsiePvDk-b0oD-ANCA-47">
+        <mxCell id="bqKsiePvDk-b0oD-ANCA-23" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Modis 500 m NDVI: 16-Day Composites, May - September, 2000 - 2023&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="bqKsiePvDk-b0oD-ANCA-47">
           <mxGeometry x="15" y="15" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bqKsiePvDk-b0oD-ANCA-49" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1810" y="245" width="390" height="315" as="geometry" />
-        </mxCell>
-        <mxCell id="TDu1QzF_pjIgGod2TFzb-9" value="Continous Forest Classes Raster" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="bqKsiePvDk-b0oD-ANCA-49" vertex="1">
-          <mxGeometry x="150" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bqKsiePvDk-b0oD-ANCA-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="bqKsiePvDk-b0oD-ANCA-49" source="bqKsiePvDk-b0oD-ANCA-15" target="TDu1QzF_pjIgGod2TFzb-9">
           <mxGeometry relative="1" as="geometry" />
@@ -295,8 +287,35 @@
         <mxCell id="bqKsiePvDk-b0oD-ANCA-35" value="CLC-Landcover 100 meter, every 6 years 2000 - 2018" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="bqKsiePvDk-b0oD-ANCA-48">
           <mxGeometry x="10" y="10" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bqKsiePvDk-b0oD-ANCA-36" value="CLC-Landcover 100 meter, every 6 years 2000 - 2018" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="bqKsiePvDk-b0oD-ANCA-48">
+        <mxCell id="bqKsiePvDk-b0oD-ANCA-36" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;CLC-Landcover 100 meter, every 6 years 2000 - 2018&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="bqKsiePvDk-b0oD-ANCA-48">
           <mxGeometry x="15" y="15" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TDu1QzF_pjIgGod2TFzb-9" value="Continous Forest Classes Raster" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="bqKsiePvDk-b0oD-ANCA-49" vertex="1">
+          <mxGeometry x="150" y="275" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bqKsiePvDk-b0oD-ANCA-50" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Preprocessing: CRS EPSG:25832&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2247.5" y="360" width="135" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bqKsiePvDk-b0oD-ANCA-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bqKsiePvDk-b0oD-ANCA-23" target="bqKsiePvDk-b0oD-ANCA-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bqKsiePvDk-b0oD-ANCA-52" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Preprocessing: CRS EPSG:25832&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2427.5" y="360" width="135" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bqKsiePvDk-b0oD-ANCA-53" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Preprocessing: CRS EPSG:25832&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2712.5" y="365" width="135" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bqKsiePvDk-b0oD-ANCA-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bqKsiePvDk-b0oD-ANCA-41" target="bqKsiePvDk-b0oD-ANCA-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bqKsiePvDk-b0oD-ANCA-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bqKsiePvDk-b0oD-ANCA-44" target="bqKsiePvDk-b0oD-ANCA-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bqKsiePvDk-b0oD-ANCA-59" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2195" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bqKsiePvDk-b0oD-ANCA-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TDu1QzF_pjIgGod2TFzb-9" target="bqKsiePvDk-b0oD-ANCA-59">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
