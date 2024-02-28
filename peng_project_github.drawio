@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-28T12:33:58.176Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="M6nUxLc_NQb0PaUj-pSD" version="23.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-28T12:39:33.272Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="AXe78-E7CCa_go4LrYup" version="23.1.7" type="github">
   <diagram name="Seite-1" id="LFhBnV2CUkkyut7LVG_U">
-    <mxGraphModel dx="1366" dy="707" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="844" dy="436" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -370,8 +370,14 @@
         <mxCell id="IiJ3tMai2EsCHPYlgADN-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TDu1QzF_pjIgGod2TFzb-9" target="bqKsiePvDk-b0oD-ANCA-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IiJ3tMai2EsCHPYlgADN-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IiJ3tMai2EsCHPYlgADN-26" value="All variables:&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Significance of Trend" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2262.5" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IiJ3tMai2EsCHPYlgADN-28" value="All variables: &lt;br&gt;Intensity of trend" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2425" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IiJ3tMai2EsCHPYlgADN-30" value="Correlation Analysis with different lags" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2660" y="730" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
