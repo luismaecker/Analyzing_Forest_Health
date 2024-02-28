@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-28T13:03:51.599Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="mruhvMpiQVK8E5NsdU4G" version="23.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-28T13:08:21.468Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="xX4r0rnDle5B1wzATHHZ" version="23.1.7" type="github">
   <diagram name="Seite-1" id="LFhBnV2CUkkyut7LVG_U">
-    <mxGraphModel dx="1103" dy="571" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1247" dy="645" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -364,7 +364,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IiJ3tMai2EsCHPYlgADN-10" value="Seasonal Man-Kendall Test with 5 month periodicity&amp;nbsp; &amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; //&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Calculating annual means&amp;nbsp;&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="IiJ3tMai2EsCHPYlgADN-10" value="Seasonal Man-Kendall Test with 5 month periodicity&amp;nbsp; &amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; //&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Calculating annual means per Forest area" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="2240" y="610" width="620" height="48.13" as="geometry" />
         </mxCell>
         <mxCell id="IiJ3tMai2EsCHPYlgADN-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TDu1QzF_pjIgGod2TFzb-9" target="bqKsiePvDk-b0oD-ANCA-59">
@@ -388,7 +388,7 @@
           <mxGeometry x="2410" y="735" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IiJ3tMai2EsCHPYlgADN-30" value="Correlation Analysis with different lags" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2635" y="735" width="120" height="35" as="geometry" />
+          <mxGeometry x="2660" y="735" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="IiJ3tMai2EsCHPYlgADN-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IiJ3tMai2EsCHPYlgADN-10" target="IiJ3tMai2EsCHPYlgADN-28">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -410,10 +410,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IiJ3tMai2EsCHPYlgADN-38" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.72;exitY=1.004;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="IiJ3tMai2EsCHPYlgADN-10" target="IiJ3tMai2EsCHPYlgADN-30">
+        <mxCell id="IiJ3tMai2EsCHPYlgADN-38" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2680" y="695" as="sourcePoint" />
-            <mxPoint x="2560" y="570" as="targetPoint" />
+            <mxPoint x="2721" y="658" as="sourcePoint" />
+            <mxPoint x="2721.1" y="735" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IiJ3tMai2EsCHPYlgADN-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IiJ3tMai2EsCHPYlgADN-39" target="IiJ3tMai2EsCHPYlgADN-44">
@@ -433,6 +433,22 @@
         </mxCell>
         <mxCell id="IiJ3tMai2EsCHPYlgADN-44" value="Statistics Trend per Forest Class" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
           <mxGeometry x="2075" y="875" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IiJ3tMai2EsCHPYlgADN-50" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2750" y="115" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IiJ3tMai2EsCHPYlgADN-52" value="&lt;font style=&quot;&quot;&gt;German forest natural park shapes&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6D0DE;strokeColor=#B5739D;" vertex="1" parent="1">
+          <mxGeometry x="2925" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IiJ3tMai2EsCHPYlgADN-56" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2985" y="310" as="sourcePoint" />
+            <mxPoint x="2860" y="634.0649999999998" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2985" y="634" />
+              <mxPoint x="2920" y="634" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
