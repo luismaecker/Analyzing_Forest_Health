@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-28T13:02:12.310Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Ipir_w4pfonLKiFps7d6" version="23.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-28T13:03:51.599Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="mruhvMpiQVK8E5NsdU4G" version="23.1.7" type="github">
   <diagram name="Seite-1" id="LFhBnV2CUkkyut7LVG_U">
-    <mxGraphModel dx="1147" dy="594" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1103" dy="571" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -433,9 +433,6 @@
         </mxCell>
         <mxCell id="IiJ3tMai2EsCHPYlgADN-44" value="Statistics Trend per Forest Class" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
           <mxGeometry x="2075" y="875" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="IiJ3tMai2EsCHPYlgADN-46" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;German&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="2920" y="250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
