@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-28T12:39:33.272Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="AXe78-E7CCa_go4LrYup" version="23.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-28T12:49:27.331Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="AFg2S3Ooag0KzkQzBlun" version="23.1.7" type="github">
   <diagram name="Seite-1" id="LFhBnV2CUkkyut7LVG_U">
-    <mxGraphModel dx="844" dy="436" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="618" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -371,13 +371,39 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IiJ3tMai2EsCHPYlgADN-26" value="All variables:&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Significance of Trend" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2262.5" y="740" width="120" height="60" as="geometry" />
+          <mxGeometry x="2265" y="735" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IiJ3tMai2EsCHPYlgADN-28" value="All variables: &lt;br&gt;Intensity of trend" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2425" y="740" width="120" height="60" as="geometry" />
+          <mxGeometry x="2410" y="735" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IiJ3tMai2EsCHPYlgADN-30" value="Correlation Analysis with different lags" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2660" y="730" width="120" height="60" as="geometry" />
+          <mxGeometry x="2635" y="735" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="IiJ3tMai2EsCHPYlgADN-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IiJ3tMai2EsCHPYlgADN-10" target="IiJ3tMai2EsCHPYlgADN-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2505" y="710" as="sourcePoint" />
+            <mxPoint x="2555" y="660" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2395" y="700" />
+              <mxPoint x="2470" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IiJ3tMai2EsCHPYlgADN-36" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="IiJ3tMai2EsCHPYlgADN-10" target="IiJ3tMai2EsCHPYlgADN-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2395" y="710" as="sourcePoint" />
+            <mxPoint x="2410" y="640" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2395" y="700" />
+              <mxPoint x="2325" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IiJ3tMai2EsCHPYlgADN-38" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.72;exitY=1.004;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="IiJ3tMai2EsCHPYlgADN-10" target="IiJ3tMai2EsCHPYlgADN-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2680" y="695" as="sourcePoint" />
+            <mxPoint x="2560" y="570" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
