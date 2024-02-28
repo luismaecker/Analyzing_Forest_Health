@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-28T12:21:22.600Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="ub-UW8q4mB76JHdRsNHp" version="23.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-28T12:27:33.107Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="F-JoNi8PueMA9L1hmR6L" version="23.1.7" type="github">
   <diagram name="Seite-1" id="LFhBnV2CUkkyut7LVG_U">
-    <mxGraphModel dx="1024" dy="530" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1247" dy="645" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -294,24 +294,30 @@
           <mxGeometry x="150" y="275" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IiJ3tMai2EsCHPYlgADN-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bqKsiePvDk-b0oD-ANCA-50" target="bqKsiePvDk-b0oD-ANCA-59">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2315" y="500" />
+              <mxPoint x="2315" y="500" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="bqKsiePvDk-b0oD-ANCA-50" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Preprocessing: CRS EPSG:25832&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="bqKsiePvDk-b0oD-ANCA-50" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Preprocessing: CRS EPSG:25832, calculating monthly means&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2247.5" y="396" width="135" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bqKsiePvDk-b0oD-ANCA-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bqKsiePvDk-b0oD-ANCA-23" target="bqKsiePvDk-b0oD-ANCA-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IiJ3tMai2EsCHPYlgADN-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.157;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bqKsiePvDk-b0oD-ANCA-52" target="IiJ3tMai2EsCHPYlgADN-1">
+        <mxCell id="IiJ3tMai2EsCHPYlgADN-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.157;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bqKsiePvDk-b0oD-ANCA-52">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2495" y="515" as="targetPoint" />
+            <mxPoint x="2495.4025" y="531.43569" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bqKsiePvDk-b0oD-ANCA-52" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Preprocessing: CRS EPSG:25832&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2427.5" y="396" width="135" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="IiJ3tMai2EsCHPYlgADN-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bqKsiePvDk-b0oD-ANCA-53" target="IiJ3tMai2EsCHPYlgADN-1">
+        <mxCell id="IiJ3tMai2EsCHPYlgADN-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bqKsiePvDk-b0oD-ANCA-53">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2780.0000000000005" y="530.94" as="targetPoint" />
             <Array as="points">
               <mxPoint x="2780" y="485" />
               <mxPoint x="2780" y="485" />
@@ -327,27 +333,26 @@
         <mxCell id="bqKsiePvDk-b0oD-ANCA-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bqKsiePvDk-b0oD-ANCA-44" target="bqKsiePvDk-b0oD-ANCA-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bqKsiePvDk-b0oD-ANCA-59" value="Using Continous Forest Areas to mask NDVI data" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;" parent="1" vertex="1">
-          <mxGeometry x="2241.25" y="530.94" width="147.5" height="38.13" as="geometry" />
+        <mxCell id="bqKsiePvDk-b0oD-ANCA-59" value="Using Continous Forest Areas to mask data; For climate data resample to 1km resolution first" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;" parent="1" vertex="1">
+          <mxGeometry x="2241.25" y="530.93" width="618.75" height="38.13" as="geometry" />
         </mxCell>
-        <mxCell id="IiJ3tMai2EsCHPYlgADN-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IiJ3tMai2EsCHPYlgADN-1" target="IiJ3tMai2EsCHPYlgADN-10">
+        <mxCell id="IiJ3tMai2EsCHPYlgADN-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="IiJ3tMai2EsCHPYlgADN-10">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2495.0000000000005" y="569.0700000000002" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="2495" y="595" />
               <mxPoint x="2495" y="595" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IiJ3tMai2EsCHPYlgADN-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IiJ3tMai2EsCHPYlgADN-1" target="IiJ3tMai2EsCHPYlgADN-10">
+        <mxCell id="IiJ3tMai2EsCHPYlgADN-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="IiJ3tMai2EsCHPYlgADN-10">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2780.0000000000005" y="569.0700000000002" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="2780" y="580" />
               <mxPoint x="2780" y="580" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="IiJ3tMai2EsCHPYlgADN-1" value="Resampling mask to 1km; Applying mask to climate data" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;" vertex="1" parent="1">
-          <mxGeometry x="2427.5" y="530.94" width="432.5" height="38.13" as="geometry" />
         </mxCell>
         <mxCell id="IiJ3tMai2EsCHPYlgADN-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bqKsiePvDk-b0oD-ANCA-59" target="IiJ3tMai2EsCHPYlgADN-10">
           <mxGeometry relative="1" as="geometry">
@@ -359,20 +364,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IiJ3tMai2EsCHPYlgADN-10" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="IiJ3tMai2EsCHPYlgADN-10" value="For each variable: Seasonal Man-Kendall Test with 5 month periodicity&amp;nbsp; &amp;nbsp;-&amp;nbsp; &amp;nbsp; Calculating annual means&amp;nbsp;&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="2240" y="610" width="620" height="48.13" as="geometry" />
         </mxCell>
-        <mxCell id="IiJ3tMai2EsCHPYlgADN-19" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bqKsiePvDk-b0oD-ANCA-59" target="IiJ3tMai2EsCHPYlgADN-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2385" y="510" as="sourcePoint" />
-            <mxPoint x="2435" y="460" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="IiJ3tMai2EsCHPYlgADN-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TDu1QzF_pjIgGod2TFzb-9" target="bqKsiePvDk-b0oD-ANCA-59">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IiJ3tMai2EsCHPYlgADN-20" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TDu1QzF_pjIgGod2TFzb-9" target="bqKsiePvDk-b0oD-ANCA-59">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2380" y="485" as="sourcePoint" />
-            <mxPoint x="2430" y="435" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="IiJ3tMai2EsCHPYlgADN-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2325" y="695" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
