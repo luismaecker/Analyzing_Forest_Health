@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-28T12:05:08.440Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="nfarvBCsQ00QkaY0XDTq" version="23.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-28T12:21:22.600Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="ub-UW8q4mB76JHdRsNHp" version="23.1.7" type="github">
   <diagram name="Seite-1" id="LFhBnV2CUkkyut7LVG_U">
-    <mxGraphModel dx="1793" dy="928" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1024" dy="530" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -327,14 +327,8 @@
         <mxCell id="bqKsiePvDk-b0oD-ANCA-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bqKsiePvDk-b0oD-ANCA-44" target="bqKsiePvDk-b0oD-ANCA-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IiJ3tMai2EsCHPYlgADN-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bqKsiePvDk-b0oD-ANCA-59" target="IiJ3tMai2EsCHPYlgADN-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="bqKsiePvDk-b0oD-ANCA-59" value="Using Continous Forest Areas to mask NDVI data" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;" parent="1" vertex="1">
           <mxGeometry x="2241.25" y="530.94" width="147.5" height="38.13" as="geometry" />
-        </mxCell>
-        <mxCell id="bqKsiePvDk-b0oD-ANCA-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TDu1QzF_pjIgGod2TFzb-9" target="bqKsiePvDk-b0oD-ANCA-59" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IiJ3tMai2EsCHPYlgADN-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IiJ3tMai2EsCHPYlgADN-1" target="IiJ3tMai2EsCHPYlgADN-10">
           <mxGeometry relative="1" as="geometry">
@@ -365,8 +359,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IiJ3tMai2EsCHPYlgADN-10" value="Seasonal MK test, with 5 month periodicity" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="IiJ3tMai2EsCHPYlgADN-10" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="2240" y="610" width="620" height="48.13" as="geometry" />
+        </mxCell>
+        <mxCell id="IiJ3tMai2EsCHPYlgADN-19" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bqKsiePvDk-b0oD-ANCA-59" target="IiJ3tMai2EsCHPYlgADN-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2385" y="510" as="sourcePoint" />
+            <mxPoint x="2435" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IiJ3tMai2EsCHPYlgADN-20" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TDu1QzF_pjIgGod2TFzb-9" target="bqKsiePvDk-b0oD-ANCA-59">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2380" y="485" as="sourcePoint" />
+            <mxPoint x="2430" y="435" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
