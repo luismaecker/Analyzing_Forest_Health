@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2024-02-28T13:10:22.006Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="JlrVzb0f04ABgTfCWLGd" version="23.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-04T12:20:29.420Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="8huuo2U2vR8I0vS70w_I" version="23.1.7" type="github">
   <diagram name="Seite-1" id="LFhBnV2CUkkyut7LVG_U">
-    <mxGraphModel dx="1687" dy="873" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1304" dy="675" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="IiJ3tMai2EsCHPYlgADN-67" value="&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DEEDFF;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="675" width="1150" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="IiJ3tMai2EsCHPYlgADN-65" value="&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DEEDFF;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="90" width="1150" height="495" as="geometry" />
+        </mxCell>
         <mxCell id="svSbglkjGErdBo7fSWwA-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="A4KC4OkEU0xHgXNjWnPV-1" target="svSbglkjGErdBo7fSWwA-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -263,7 +269,7 @@
         <mxCell id="bqKsiePvDk-b0oD-ANCA-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="bqKsiePvDk-b0oD-ANCA-49" source="bqKsiePvDk-b0oD-ANCA-15" target="TDu1QzF_pjIgGod2TFzb-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bqKsiePvDk-b0oD-ANCA-15" value="Analyze class continuity over time" style="rounded=1;whiteSpace=wrap;html=1;" parent="bqKsiePvDk-b0oD-ANCA-49" vertex="1">
+        <mxCell id="bqKsiePvDk-b0oD-ANCA-15" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Analyze class continuity over time&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="bqKsiePvDk-b0oD-ANCA-49" vertex="1">
           <mxGeometry x="152.5" y="205" width="115" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bqKsiePvDk-b0oD-ANCA-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="bqKsiePvDk-b0oD-ANCA-49" source="bqKsiePvDk-b0oD-ANCA-9" target="bqKsiePvDk-b0oD-ANCA-15" edge="1">
@@ -290,7 +296,7 @@
         <mxCell id="bqKsiePvDk-b0oD-ANCA-36" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;CLC-Landcover 100 meter, every 6 years 2000 - 2018&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="bqKsiePvDk-b0oD-ANCA-48" vertex="1">
           <mxGeometry x="15" y="15" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TDu1QzF_pjIgGod2TFzb-9" value="Continous Forest Classes Raster" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="bqKsiePvDk-b0oD-ANCA-49" vertex="1">
+        <mxCell id="TDu1QzF_pjIgGod2TFzb-9" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Continous Forest Classes Raster&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="bqKsiePvDk-b0oD-ANCA-49" vertex="1">
           <mxGeometry x="150" y="275" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IiJ3tMai2EsCHPYlgADN-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bqKsiePvDk-b0oD-ANCA-50" target="bqKsiePvDk-b0oD-ANCA-59">
@@ -333,39 +339,11 @@
         <mxCell id="bqKsiePvDk-b0oD-ANCA-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bqKsiePvDk-b0oD-ANCA-44" target="bqKsiePvDk-b0oD-ANCA-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bqKsiePvDk-b0oD-ANCA-59" value="Using Continous Forest Areas to mask data; For climate data resample to 1km resolution first" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;" parent="1" vertex="1">
+        <mxCell id="bqKsiePvDk-b0oD-ANCA-59" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Using Continous Forest Areas to mask data; For climate data resample to 1km resolution first&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;" parent="1" vertex="1">
           <mxGeometry x="2241.25" y="530.93" width="618.75" height="38.13" as="geometry" />
         </mxCell>
-        <mxCell id="IiJ3tMai2EsCHPYlgADN-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="IiJ3tMai2EsCHPYlgADN-10">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2495.0000000000005" y="569.0700000000002" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="2495" y="595" />
-              <mxPoint x="2495" y="595" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="IiJ3tMai2EsCHPYlgADN-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="IiJ3tMai2EsCHPYlgADN-10">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2780.0000000000005" y="569.0700000000002" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="2780" y="580" />
-              <mxPoint x="2780" y="580" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="IiJ3tMai2EsCHPYlgADN-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bqKsiePvDk-b0oD-ANCA-59" target="IiJ3tMai2EsCHPYlgADN-10">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2315" y="569" as="sourcePoint" />
-            <mxPoint x="2315" y="654.06" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="2315" y="595" />
-              <mxPoint x="2315" y="595" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="IiJ3tMai2EsCHPYlgADN-10" value="Seasonal Man-Kendall Test with 5 month periodicity&amp;nbsp; &amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; //&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Calculating annual means per Forest area" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="2240" y="610" width="620" height="48.13" as="geometry" />
+        <mxCell id="IiJ3tMai2EsCHPYlgADN-10" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Seasonal MK and Theil-sen slope estimation with 5 month periodicity&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2250" y="690" width="290" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IiJ3tMai2EsCHPYlgADN-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TDu1QzF_pjIgGod2TFzb-9" target="bqKsiePvDk-b0oD-ANCA-59">
           <mxGeometry relative="1" as="geometry" />
@@ -374,91 +352,146 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IiJ3tMai2EsCHPYlgADN-26" value="All variables:&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Significance of Trend" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C4C4C4;" vertex="1" parent="1">
-          <mxGeometry x="2265" y="735" width="120" height="60" as="geometry" />
+          <mxGeometry x="2265" y="815" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IiJ3tMai2EsCHPYlgADN-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IiJ3tMai2EsCHPYlgADN-28" target="IiJ3tMai2EsCHPYlgADN-39">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2470" y="920" as="targetPoint" />
+            <mxPoint x="2470" y="1000" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="2470" y="905" />
+              <mxPoint x="2470" y="985" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IiJ3tMai2EsCHPYlgADN-28" value="All variables: Per pixel intensity of trend" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
-          <mxGeometry x="2410" y="735" width="120" height="60" as="geometry" />
+        <mxCell id="IiJ3tMai2EsCHPYlgADN-28" value="All variables: Raster-Maps intensity of trend" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
+          <mxGeometry x="2410" y="815" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IiJ3tMai2EsCHPYlgADN-30" value="Correlation Analysis with different lags" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2660" y="735" width="120" height="35" as="geometry" />
+        <mxCell id="IiJ3tMai2EsCHPYlgADN-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IiJ3tMai2EsCHPYlgADN-30" target="IiJ3tMai2EsCHPYlgADN-64">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2720" y="930" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="IiJ3tMai2EsCHPYlgADN-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IiJ3tMai2EsCHPYlgADN-10" target="IiJ3tMai2EsCHPYlgADN-28">
+        <mxCell id="IiJ3tMai2EsCHPYlgADN-30" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Correlation Analysis with different lags&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2660" y="815" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="IiJ3tMai2EsCHPYlgADN-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IiJ3tMai2EsCHPYlgADN-10" target="IiJ3tMai2EsCHPYlgADN-28">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2505" y="710" as="sourcePoint" />
-            <mxPoint x="2555" y="660" as="targetPoint" />
+            <mxPoint x="2505" y="790" as="sourcePoint" />
+            <mxPoint x="2555" y="740" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="2395" y="700" />
-              <mxPoint x="2470" y="700" />
+              <mxPoint x="2395" y="780" />
+              <mxPoint x="2470" y="780" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IiJ3tMai2EsCHPYlgADN-36" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="IiJ3tMai2EsCHPYlgADN-10" target="IiJ3tMai2EsCHPYlgADN-26">
+        <mxCell id="IiJ3tMai2EsCHPYlgADN-36" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="IiJ3tMai2EsCHPYlgADN-10" target="IiJ3tMai2EsCHPYlgADN-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2395" y="710" as="sourcePoint" />
-            <mxPoint x="2410" y="640" as="targetPoint" />
+            <mxPoint x="2395" y="790" as="sourcePoint" />
+            <mxPoint x="2410" y="720" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="2395" y="700" />
-              <mxPoint x="2325" y="700" />
+              <mxPoint x="2395" y="780" />
+              <mxPoint x="2325" y="780" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IiJ3tMai2EsCHPYlgADN-38" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="IiJ3tMai2EsCHPYlgADN-38" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.479;exitY=0.992;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="IiJ3tMai2EsCHPYlgADN-76">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2721" y="658" as="sourcePoint" />
-            <mxPoint x="2721.1" y="735" as="targetPoint" />
+            <mxPoint x="2721" y="738" as="sourcePoint" />
+            <mxPoint x="2721.1" y="815" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IiJ3tMai2EsCHPYlgADN-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IiJ3tMai2EsCHPYlgADN-39" target="IiJ3tMai2EsCHPYlgADN-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IiJ3tMai2EsCHPYlgADN-39" value="All variables: Per pixel significance of trend" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
-          <mxGeometry x="2265" y="875" width="120" height="60" as="geometry" />
+        <mxCell id="IiJ3tMai2EsCHPYlgADN-39" value="All variables: Raster-data significance of trend" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C4C4C4;" vertex="1" parent="1">
+          <mxGeometry x="2265" y="955" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IiJ3tMai2EsCHPYlgADN-43" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TDu1QzF_pjIgGod2TFzb-9" target="IiJ3tMai2EsCHPYlgADN-44">
+        <mxCell id="IiJ3tMai2EsCHPYlgADN-43" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TDu1QzF_pjIgGod2TFzb-9" target="IiJ3tMai2EsCHPYlgADN-58">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2240" y="690" as="sourcePoint" />
             <mxPoint x="2045" y="915" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="2020" y="905" />
+              <mxPoint x="2025" y="1125" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IiJ3tMai2EsCHPYlgADN-44" value="Statistics Trends per Forest Class" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
-          <mxGeometry x="2075" y="875" width="120" height="60" as="geometry" />
+        <mxCell id="IiJ3tMai2EsCHPYlgADN-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IiJ3tMai2EsCHPYlgADN-44" target="IiJ3tMai2EsCHPYlgADN-58">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IiJ3tMai2EsCHPYlgADN-50" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2750" y="115" width="120" height="60" as="geometry" />
+        <mxCell id="IiJ3tMai2EsCHPYlgADN-44" value="All variables: Raster-Maps Trend direction and significance" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
+          <mxGeometry x="2075" y="955" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IiJ3tMai2EsCHPYlgADN-52" value="&lt;font style=&quot;&quot;&gt;German forest natural park shapes&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6D0DE;strokeColor=#B5739D;" vertex="1" parent="1">
-          <mxGeometry x="2925" y="250" width="120" height="60" as="geometry" />
+        <mxCell id="IiJ3tMai2EsCHPYlgADN-52" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;German forest natural park shapes&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6D0DE;strokeColor=#B5739D;" vertex="1" parent="1">
+          <mxGeometry x="2890" y="252.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IiJ3tMai2EsCHPYlgADN-56" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="IiJ3tMai2EsCHPYlgADN-56" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.59;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IiJ3tMai2EsCHPYlgADN-52" target="IiJ3tMai2EsCHPYlgADN-76">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2985" y="310" as="sourcePoint" />
-            <mxPoint x="2860" y="634.0649999999998" as="targetPoint" />
+            <mxPoint x="2805" y="655" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="2985" y="634" />
-              <mxPoint x="2920" y="634" />
+              <mxPoint x="2955" y="714" />
+              <mxPoint x="2915" y="714" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IiJ3tMai2EsCHPYlgADN-57" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="IiJ3tMai2EsCHPYlgADN-44">
+        <mxCell id="IiJ3tMai2EsCHPYlgADN-57" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IiJ3tMai2EsCHPYlgADN-52" target="IiJ3tMai2EsCHPYlgADN-58">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2984.71" y="310" as="sourcePoint" />
             <mxPoint x="2125" y="970" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="2984.71" y="634" />
-              <mxPoint x="2980" y="980" />
-              <mxPoint x="2135" y="980" />
+              <mxPoint x="2955" y="634" />
+              <mxPoint x="2950" y="1130" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IiJ3tMai2EsCHPYlgADN-58" value="Per Forest Class and region: Area for each trend class" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
+          <mxGeometry x="2075" y="1095" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IiJ3tMai2EsCHPYlgADN-60" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;only NDVI&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2075" y="1045" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IiJ3tMai2EsCHPYlgADN-64" value="Per forest area corelations between annual NDVI and climate variables" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
+          <mxGeometry x="2660" y="945" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IiJ3tMai2EsCHPYlgADN-66" value="Pre-processing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2970" y="90" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IiJ3tMai2EsCHPYlgADN-68" value="Statistical Analysis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2970" y="675" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IiJ3tMai2EsCHPYlgADN-69" value="Preprocessed and masked NDVI and climate data time series" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C4C4C4;" vertex="1" parent="1">
+          <mxGeometry x="2280" y="610" width="530" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IiJ3tMai2EsCHPYlgADN-71" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.862;exitY=0.975;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.932;entryY=-0.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2780.3225" y="568.50675" as="sourcePoint" />
+            <mxPoint x="2779.67" y="610.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IiJ3tMai2EsCHPYlgADN-72" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.415;exitY=0.996;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.41;entryY=-0.065;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2495.36125" y="569.0574799999999" as="sourcePoint" />
+            <mxPoint x="2494.63" y="607.5500000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IiJ3tMai2EsCHPYlgADN-74" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.122;exitY=1.014;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.07;entryY=-0.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bqKsiePvDk-b0oD-ANCA-59" target="IiJ3tMai2EsCHPYlgADN-69">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2330" y="605" as="sourcePoint" />
+            <mxPoint x="2380" y="555" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IiJ3tMai2EsCHPYlgADN-75" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.217;exitY=1.018;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IiJ3tMai2EsCHPYlgADN-69" target="IiJ3tMai2EsCHPYlgADN-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2620" y="745" as="sourcePoint" />
+            <mxPoint x="2670" y="695" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IiJ3tMai2EsCHPYlgADN-76" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Calculating annual means per forest area&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2615" y="690" width="225" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IiJ3tMai2EsCHPYlgADN-77" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.834;exitY=0.976;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.476;entryY=0.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IiJ3tMai2EsCHPYlgADN-69" target="IiJ3tMai2EsCHPYlgADN-76">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2735" y="770" as="sourcePoint" />
+            <mxPoint x="2785" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
